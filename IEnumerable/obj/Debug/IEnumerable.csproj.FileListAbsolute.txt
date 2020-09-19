@@ -1,0 +1,2 @@
+C:\Users\Danil\Desktop\Для работы\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\Danil\Desktop\Для работы\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csprojResolveAssemblyReference.cache
